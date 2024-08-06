@@ -1,4 +1,4 @@
-list=[11,22,33,44,55]
+list=[,20,10,30,40,50]
 print(list)
 
 t1=tuple(list)
